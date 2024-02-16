@@ -1,0 +1,3 @@
+Hello I am writing to this file for 
+a demo of git. 
+This is the third line of a file.
